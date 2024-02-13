@@ -2094,7 +2094,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzUrKeL5iqw_9atJ6Dnlv8k=-VNo/dash-wv/jitp-linearwm/2402/default.mpd
 ##http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1706.ts
 ##https://ktpremium.com:443/N197NGF/8199/25867
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+##https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.ts
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",Astro Citra CH108
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
